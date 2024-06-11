@@ -5,6 +5,11 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
+    colors:{
+      "mani-primary": "yellow",
+      "mani-background": "blue",
+      "mani-text": "red",
+    },
     extend: {},
   },
   plugins: [],

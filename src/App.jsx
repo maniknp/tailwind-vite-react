@@ -5,8 +5,13 @@ import './App.css'
 
 export default function App() {
   return (
-    <h1 className="text-3xl font-bold underline">
-      Hello world!
-    </h1>
+    
+        // <div className='h-screen bg-black bg-mani-primary '>
+        <div >
+          <h1 className="font-bold underline ">
+          <button className="btn ">okk</button>
+      </h1>
+      </div>
+    
   )
 }

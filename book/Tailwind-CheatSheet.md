@@ -1,2 +1,3 @@
 - https://tailwindcomponents.com/cheatsheet/
-- 
+- Tailwind CSS IntelliSense ( VS code Extension )
+-  Install this https://github.com/tailwindlabs/prettier-plugin-tailwindcss ( It help you to sor class )
