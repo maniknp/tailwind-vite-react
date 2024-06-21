@@ -16,7 +16,7 @@ export default function App() {
             <p>hi</p>
             <p>hi</p>
             <p>hi</p>
-            <p>hi</p>
+            <p>hi 1</p> 
           </div>
             <Theme1/>
         </>
